@@ -1,2 +1,2 @@
-# test-r-repo
+# datasciencecoursera
 Playground for some R experiments
